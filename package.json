@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+
+  },
+  "scripts": {
+    "first": "node first.js",
+    "second": "node second.js",
+    "third": "node third.js"
+  },
+  "devDependencies": {}
+}
